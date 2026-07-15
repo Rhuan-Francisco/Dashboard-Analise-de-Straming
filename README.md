@@ -22,8 +22,10 @@ Responder perguntas de negócio como:
 
 ## 🖥️ Dashboard
 
-> **📷 Coloque aqui o print do dashboard**
 
+<p align="center">
+  <img src="imagem/Captura de tela 2026-07-10 162716.png" alt="Dashboard de análise de Streaming" width="900">
+</p>
 ---
 
 ## 📈 Principais indicadores
